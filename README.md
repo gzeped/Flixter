@@ -27,7 +27,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 "https://imgur.com/xpzSjhj"<br>
 
 ### Notes
-Describe any challenges encountered while building the app.<br>
+
 I could not get any images on the emulator. I asked for help on the slack and recieved some advice on how to resolve the issue from the TA's. Also, the scrolling of the 
 images is very slow. I beleive it is becuase my machine does not have enough RAM to run a lot of things at once. I will look into getting rid of some
 background processes so my emulator can run smoothly. 

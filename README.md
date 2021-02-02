@@ -54,7 +54,7 @@ I had difficulty loading the YOUTUBE jar library to the app module. I had to man
 
 ### App Walkthough GIF
 
-"https://i.imgur.com/bqgCBoj.gif"<br>
+<img src="https://i.imgur.com/e56j0AE.gif" width=250><br>
 
 ### Notes
 
